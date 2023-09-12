@@ -25,7 +25,7 @@ I'm currently learning and working with:
 
 ## Get in Touch
 
-- 📫 You can reach me via email at [mradullakhotiya24@gmail.com](mailto:mradullakhotiya24@gmail.com) or [Mradil.125.405@stu.upes.ac.in](mailto:Mradil.125.405@stu.upes.ac.in).
+- 📫 You can reach me via email at [mradullakhotiya24@gmail.com](mailto:mradullakhotiya24@gmail.com) or [Mradul.125405@stu.upes.ac.in](mailto:Mradul.125405@stu.upes.ac.in).
 - 🌐 Connect with me on [LinkedIn](https://www.linkedin.com/in/mradul-lakhotiya).
 
 Feel free to connect with me, offer advice, or share your own coding experiences. Let's learn and grow together!
