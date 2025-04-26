@@ -1,34 +1,35 @@
 # Hello, I'm Mradul Lakhotiya! 👋
 
-I'm a first-year Computer Science Engineering student at UPES, and I'm just starting my journey in the world of coding.
+I'm a passionate **first-year Computer Science Engineering (CSE) student** at UPES, embarking on my journey to master programming, web development, and machine learning. 🚀
 
 ## About Me
 
-- 📚 Currently pursuing a Bachelor's degree in Computer Science Engineering (CSE) at UPES.
-- 💡 Exploring the fascinating world of programming and technology.
-- 🌱 Learning the basics of programming in C.
-- 🤝 Open to collaborations and connecting with fellow learners and developers.
+- 🎓 Pursuing a Bachelor's degree in Computer Science Engineering (CSE) at UPES.
+- 🌱 Continuously learning and improving my skills through hands-on projects and collaborations.
+- 🤝 Open to connecting with fellow learners, developers, and mentors.
 
-## My GitHub Journey
+## Skills
 
-I've recently embarked on my coding journey, and I'm currently focused on learning and mastering the fundamentals of the C programming language.
+- **Programming Languages:** C ([github.com](https://github.com/Mradul-Lakhotiya?tab=repositories)), Java ([github.com](https://github.com/Mradul-Lakhotiya?tab=repositories)), Python ([github.com](https://github.com/Mradul-Lakhotiya?tab=repositories)), JavaScript ([github.com](https://github.com/Mradul-Lakhotiya?tab=repositories)), HTML & CSS ([github.com](https://github.com/Mradul-Lakhotiya?tab=repositories))
+- **Web Development:** Flask ([github.com](https://github.com/Mradul-Lakhotiya?tab=repositories)), REST APIs, HTML, CSS, JavaScript ([github.com](https://github.com/Mradul-Lakhotiya?tab=repositories))
+- **Data Structures & Algorithms:** Practical DSA problem-solving in mentorship and competition repos ([github.com](https://github.com/Mradul-Lakhotiya?tab=repositories))
+- **Machine Learning & NLP:** BERT for fake-review detection ([github.com](https://github.com/Mradul-Lakhotiya?tab=repositories)); Random Forest models for Kepler Objects of Interest classification ([github.com](https://github.com/Mradul-Lakhotiya?tab=repositories))
+- **Tools & Technologies:** Jupyter Notebooks ([github.com](https://github.com/Mradul-Lakhotiya?tab=repositories)), Git & GitHub configuration ([github.com](https://github.com/Mradul-Lakhotiya?tab=repositories))
 
-## My Interests
+## Notable Projects
 
-- 📺 I'm a passionate anime enthusiast and love exploring different genres of anime.
-- 🎵 I enjoy listening to a wide range of music, and you might catch me with my headphones on during coding sessions.
-
-## Coding Languages
-
-I'm currently learning and working with:
-- C
+- **IdentifyFakeReviews:** Flask-based API using BERT to classify reviews as fake or real ([github.com](https://github.com/Mradul-Lakhotiya?tab=repositories))
+- **RandomForest_KeplerObjectsOfInterest-KOIs:** Machine learning notebook for classifying Kepler objects using Random Forest ([github.com](https://github.com/Mradul-Lakhotiya?tab=repositories))
+- **expense-tracker-java:** Java application for tracking personal expenses ([github.com](https://github.com/Mradul-Lakhotiya?tab=repositories))
+- **Technical-2023 & DSA:** Repositories focused on DSA challenges and mentorship materials ([github.com](https://github.com/Mradul-Lakhotiya?tab=repositories))
+- **DailyCode:** Solutions in C, Java, Python, HTML, CSS, and JavaScript for daily coding practice ([github.com](https://github.com/Mradul-Lakhotiya?tab=repositories))
+- **WebDevProjects & NGO-Site:** Various HTML/CSS-based web development projects, including NGO-Site for Aasra-Nishaktjan Welfare Society ([github.com](https://github.com/Mradul-Lakhotiya?tab=repositories))
 
 ## Get in Touch
 
-- 📫 You can reach me via email at [mradullakhotiya24@gmail.com](mailto:mradullakhotiya24@gmail.com) or [Mradul.125405@stu.upes.ac.in](mailto:Mradul.125405@stu.upes.ac.in).
-- 🌐 Connect with me on [LinkedIn](https://www.linkedin.com/in/mradul-lakhotiya).
-- 💬 Connect with me on Discord username :- mradul_lakhotiya
+- 📫 Email: [mradullakhotiya24@gmail.com](mailto:mradullakhotiya24@gmail.com) or [Mradul.125405@stu.upes.ac.in](mailto:Mradul.125405@stu.upes.ac.in)
+- 🌐 LinkedIn: [in/mradul-lakhotiya](https://www.linkedin.com/in/mradul-lakhotiya)
+- 💬 Discord: **mradul_lakhotiya**
 
-Feel free to connect with me, offer advice, or share your own coding experiences. Let's learn and grow together!
+Feel free to connect, collaborate, or share your coding experiences. Let's learn and create together! ✨
 
-Happy coding! 🚀
