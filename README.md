@@ -124,7 +124,7 @@ Computer Science Engineering student at UPES with expertise in building scalable
 
 ---
 
-## 🛠️ Technical Skills
+## Technical Skills
 
 ### **Languages & Proficiency**
 | Category | Technologies |
@@ -147,7 +147,7 @@ Computer Science Engineering student at UPES with expertise in building scalable
 
 ---
 
-## 📊 Project Statistics
+## Project Statistics
 
 - **15+** GitHub repositories with active development
 - **5+** Full-stack applications deployed
@@ -167,7 +167,7 @@ Computer Science Engineering student at UPES with expertise in building scalable
 
 ---
 
-## 🚀 Current Objectives
+## Current Objectives
 
 ### **Internship/Job Focus**
 - Seeking **Full-Stack Development, Backend Engineering, or ML Engineering** internships
