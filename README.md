@@ -1,4 +1,4 @@
-# Mradul Lakhotiya 👨‍💻
+# Mradul Lakhotiya
 
 **Full-Stack Developer | Machine Learning Enthusiast | Competitive Programmer**
 
@@ -6,7 +6,7 @@ Computer Science Engineering student at UPES with expertise in building scalable
 
 ---
 
-## 🎯 Key Stats
+## Key Stats
 
 - **Languages:** Java, Python, TypeScript, C++, Dart, JavaScript, C
 - **Specializations:** Full-Stack Development • System Design • Machine Learning • DSA & Competitive Programming
@@ -15,9 +15,9 @@ Computer Science Engineering student at UPES with expertise in building scalable
 
 ---
 
-## 💼 Featured Projects
+## Featured Projects
 
-### 🤖 **AI/ML & Advanced Systems**
+### **AI/ML & Advanced Systems**
 
 #### **SNNStudio** | [GitHub](https://github.com/Mradul-Lakhotiya/SNNStudio)
 *Train Spiking Neural Networks with custom datasets and hyperparameters*
@@ -51,7 +51,7 @@ Computer Science Engineering student at UPES with expertise in building scalable
 
 ---
 
-### 📱 **Mobile & Cross-Platform Development**
+### **Mobile & Cross-Platform Development**
 
 #### **ExpenseApp** | [GitHub](https://github.com/Mradul-Lakhotiya/ExpenseApp)
 *Full-featured expense tracking application with dark mode*
@@ -73,7 +73,7 @@ Computer Science Engineering student at UPES with expertise in building scalable
 
 ---
 
-### 🌐 **Web Development & Full-Stack**
+### **Web Development & Full-Stack**
 
 #### **Tapestria - Library Management System** | [GitHub](https://github.com/Mradul-Lakhotiya/Tapestria)
 *Beautifully designed digital library management platform*
@@ -98,7 +98,7 @@ Computer Science Engineering student at UPES with expertise in building scalable
 
 ---
 
-### 💪 **Data Structures & Algorithms (DSA)**
+### **Data Structures & Algorithms (DSA)**
 
 #### **Competitive Programming Repository** | [GitHub](https://github.com/Mradul-Lakhotiya/DSA)
 *Comprehensive DSA problem solutions & implementations*
@@ -137,13 +137,13 @@ Computer Science Engineering student at UPES with expertise in building scalable
 | **Tools & Frameworks** | Flask, React ecosystem, Docker, Git |
 
 ### **Domain Expertise**
-- ✅ **System Design:** Database indexing, API design, architecture patterns
-- ✅ **Machine Learning:** NLP (BERT), classification, recommendation systems
-- ✅ **Competitive Programming:** Advanced DSA, time complexity optimization
-- ✅ **Mobile Development:** Cross-platform apps, native integration
-- ✅ **Web Development:** Full-stack applications, modern tech stack
-- ✅ **Performance Optimization:** Algorithm optimization, database queries
-- ✅ **Software Engineering:** Clean code, design patterns, testing
+- **System Design:** Database indexing, API design, architecture patterns
+- **Machine Learning:** NLP (BERT), classification, recommendation systems
+- **Competitive Programming:** Advanced DSA, time complexity optimization
+- **Mobile Development:** Cross-platform apps, native integration
+- **Web Development:** Full-stack applications, modern tech stack
+- **Performance Optimization:** Algorithm optimization, database queries
+- **Software Engineering:** Clean code, design patterns, testing
 
 ---
 
@@ -176,15 +176,15 @@ Computer Science Engineering student at UPES with expertise in building scalable
 - Active in **competitive programming** for algorithm optimization
 
 ### **Market-Aligned Skills**
-- ✅ **In-Demand Tech:** TypeScript, Python, Dart, PostgreSQL
-- ✅ **System Design:** Database systems, API design, microservices awareness
-- ✅ **Full-Stack Capability:** From database to frontend, Docker containerization
-- ✅ **ML/AI Competency:** NLP, classification models, data pipeline design
-- ✅ **Competitive Programming:** Problem-solving, algorithm optimization, complexity analysis
+- **In-Demand Tech:** TypeScript, Python, Dart, PostgreSQL
+- **System Design:** Database systems, API design, microservices awareness
+- **Full-Stack Capability:** From database to frontend, Docker containerization
+- **ML/AI Competency:** NLP, classification models, data pipeline design
+- **Competitive Programming:** Problem-solving, algorithm optimization, complexity analysis
 
 ---
 
-## 📚 Learning Path & Continuous Growth
+## Learning Path & Continuous Growth
 
 - **System Design:** Database internals (B+ Trees), query optimization
 - **AI/ML:** Deep Learning, Transformers (BERT), advanced NLP
@@ -193,30 +193,30 @@ Computer Science Engineering student at UPES with expertise in building scalable
 
 ---
 
-## 📫 Get in Touch
+## Get in Touch
 
-- **Email:** [mradullakhotiya24@gmail.com](mailto:mradullakhotiya24@gmail.com) | [Mradul.125405@stu.upes.ac.in](mailto:Mradul.125405@stu.upes.ac.in)
+- **Email:** [mradullakhotiya18@gmail.com](mailto:mradullakhotiya18@gmail.com) | [Mradul.125405@stu.upes.ac.in](mailto:Mradul.125405@stu.upes.ac.in)
 - **LinkedIn:** [in/mradul-lakhotiya](https://www.linkedin.com/in/mradul-lakhotiya)
 - **GitHub:** [github.com/Mradul-Lakhotiya](https://github.com/Mradul-Lakhotiya)
 - **Discord:** **mradul_lakhotiya**
 
 ---
 
-## 🎯 Why Hire Me?
+## Why Hire Me?
 
-✨ **Proven Ability:**
+**Proven Ability:**
 - Built 5+ full-stack projects from scratch to deployment
 - Implemented advanced algorithms & system designs
 - Applied ML/AI in real-world scenarios
 - Strong competitive programming foundation
 
-🚀 **Market Ready:**
+**Market Ready:**
 - Familiar with modern tech stacks (TypeScript, Flutter, Python)
 - Experience with databases, APIs, and system architecture
 - Production-quality code with clean practices
 - Quick learner with self-driven development
 
-💪 **Well-Rounded:**
+**Well-Rounded:**
 - Full-stack capabilities (backend, frontend, mobile, ML)
 - System design thinking for scalable applications
 - Problem-solving excellence from competitive programming
@@ -225,5 +225,3 @@ Computer Science Engineering student at UPES with expertise in building scalable
 ---
 
 *Last Updated: May 2026 | Actively seeking internship opportunities in Full-Stack Development, Backend Engineering, and Machine Learning*
-
-### Featured Repositories
